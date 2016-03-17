@@ -1,3 +1,5 @@
+//testing again
+
 //gcc bifercation.c -o bifercation -lglut -lm -lGLU -lGL
 #include <GL/glut.h>
 #include <math.h>
